@@ -18,7 +18,7 @@
  *    //////////////////////////////////////////
  */
 #include "Base_Robot.h"
-Base_Robot Robot(13,12,11,10,9,8);
+Base_Robot Robot(13,12,11,10,8,9);
 
 void setup() 
 {
